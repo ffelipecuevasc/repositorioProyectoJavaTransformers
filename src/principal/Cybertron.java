@@ -7,6 +7,7 @@ import decepticons.*;
 /**
  * 
  * @author Felipe Cuevas
+ * Para ver el perfil completo revisar el siguiente link
  * @see https://www.linkedin.com/in/ffelipecuevasc/
  */
 public class Cybertron {
