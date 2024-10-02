@@ -4,6 +4,11 @@ import java.util.*;
 import autobots.*;
 import decepticons.*;
 
+/**
+ * 
+ * @author Felipe Cuevas
+ * @see https://www.linkedin.com/in/ffelipecuevasc/
+ */
 public class Cybertron {
 
     public static void main(String[] args) {
